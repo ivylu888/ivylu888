@@ -14,7 +14,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wan-ching-lu) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wan-ching-lu)
+
+![snake svg](https://raw.githubusercontent.com/ivylu888/ivylu888/output/github-contribution-grid-snake.svg)
 
 # 💻 Tech Stack:
 
