@@ -16,7 +16,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wan-ching-lu)
 
-![snake svg](https://raw.githubusercontent.com/ivylu888/ivylu888/output/github-contribution-grid-snake.svg)
+
 
 # 💻 Tech Stack:
 
@@ -29,6 +29,7 @@
 ### 🎨 Design & Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
+![snake svg](https://raw.githubusercontent.com/ivylu888/ivylu888/output/github-contribution-grid-snake.svg)
 ![](https://github-readme-stats.vercel.app/api?username=ivylu888&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ivylu888&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivylu888&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
