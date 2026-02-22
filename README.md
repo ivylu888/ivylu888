@@ -3,6 +3,7 @@
 👋 **Hi, I'm Wan-Ching (Ivy) Lu**
 
 🎓 **Master of Science in Information Systems** | Northeastern University
+
 🎓 **Bachelor of Science in Accounting** | Feng Chia University
 
 🔭 **I’m currently working on**: **Data Engineering Zoomcamp** projects and building end-to-end data pipelines.
